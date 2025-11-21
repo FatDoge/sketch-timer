@@ -1,0 +1,5 @@
+{
+  "name": "Seasonal Sketch Timer",
+  "description": "A minimalist, hand-drawn style countdown timer that cycles through seasons as time passes.",
+  "requestFramePermissions": []
+}
